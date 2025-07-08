@@ -1,6 +1,6 @@
 # 🗳️ Sistem Voting dengan Python untuk Sistem Terdistribusi
 
-Proyek ini merupakan implementasi **aplikasi voting digital** berbasis Python yang dirancang untuk berjalan dalam **arsitektur sistem terdistribusi**. Aplikasi ini memungkinkan pengguna untuk memberikan suara secara aman dan terstruktur, dilengkapi dengan peran admin, pemilih, dan pengelolaan pemilu.
+Proyek ini merupakan implementasi **aplikasi voting digital** berbasis Python yang dirancang untuk berjalan dalam **arsitektur sistem terdistribusi master-slave**. Aplikasi ini memungkinkan pengguna untuk memberikan suara secara aman dan terstruktur, dilengkapi dengan peran admin, pemilih, dan pengelolaan pemilu.
 
 ## 📌 Fitur Utama
 
@@ -11,7 +11,7 @@ Proyek ini merupakan implementasi **aplikasi voting digital** berbasis Python ya
   - Kandidat (Candidate)
   - Pemilih (Voter)
 - 📊 Rekapitulasi hasil voting
-- 🖥️ Sistem siap untuk dijalankan dalam lingkungan terdistribusi (multi-server)
+- 🖥️ Sistem siap untuk dijalankan dalam lingkungan terdistribusi (master-slave)
 
 ## 🗄️ Struktur Database (MariaDB)
 
